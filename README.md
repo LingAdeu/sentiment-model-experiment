@@ -1,1 +1,2 @@
-# Understanding User Sentiments on Tokopedia: A Machine Learning Approach with TF-IDF and Word2Vec Embeddings
+![header](header.png)
+# Understanding User Sentiments on Tokopedia: A Predictive Modeling Approach with Different Text Representations
