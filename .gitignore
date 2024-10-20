@@ -1,2 +1,3 @@
 embeddings/*
 notebook/catboost_info/*
+.DS_Store
