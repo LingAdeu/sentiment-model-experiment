@@ -1,3 +1,4 @@
 embeddings/*
 notebook/catboost_info/*
 .DS_Store
+notebook/04_embeddings-and-lstm.ipynb
