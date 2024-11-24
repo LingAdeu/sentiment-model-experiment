@@ -25,6 +25,6 @@ This project aims to automatically extract user perceptions, particularly sentim
  
 
 ## Feedback
-If there are any questions or suggestions for improvements, feel free to contact me here:
+If there are any questions or suggestions for improvements, feel free to contact us here:
 - [Adelia Januarto](mailto:januartoadelia@gmail.com)
 - [Habib Ja'far Nur](habibjafar08@gmail.com)
