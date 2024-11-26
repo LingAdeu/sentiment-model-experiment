@@ -24,10 +24,10 @@ This project aims to automatically extract user perceptions, particularly sentim
         └── 03_tfidf-and-lstm.ipynb         : Experiment 2 notebook
  
 >[!important]
-To access the notebook files, storing information about the data analysis and experiments, kindly use these links:
-- [Data Analysis](https://nbviewer.org/github/LingAdeu/sentiment-model-experiment/blob/main/notebook/01_analysis.ipynb)
-- [Experiment 1](https://nbviewer.org/github/LingAdeu/sentiment-model-experiment/blob/main/notebook/02_tfidf-and-ml-models.ipynb): In Progress
-- Experiment 2: Upcoming
+> To access the notebook files, storing information about the data analysis and experiments, kindly use these links:
+> - [Data Analysis](https://nbviewer.org/github/LingAdeu/sentiment-model-experiment/blob/main/notebook/01_analysis.ipynb)
+> - [Experiment 1](https://nbviewer.org/github/LingAdeu/sentiment-model-experiment/blob/main/notebook/02_tfidf-and-ml-models.ipynb): In Progress
+> - Experiment 2: Upcoming
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact us here:
