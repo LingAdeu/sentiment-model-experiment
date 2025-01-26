@@ -24,6 +24,10 @@ This project aims to <b>automatically extract user perceptions, particularly bin
         ├── 01_analysis.ipynb               : Data analysis notebook
         ├── 02_tfidf-and-ml-models.ipynb    : Experiment 1 notebook
         └── 03_tfidf-and-lstm.ipynb         : Experiment 2 notebook
+        └── 04_embeddings-llama3.2-1B.ipynb : Experiment 3 notebook
+
+>[!important]
+> Due to the enormous size of the tuned LLM, it is not possible to store the model on GitHub repository. To access the model, please go to HuggingFace website.
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact us here:
