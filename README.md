@@ -27,7 +27,7 @@ This project aims to <b>automatically extract user perceptions, particularly bin
         └── 04_embeddings-and-indobert.ipynb    : Experiment 3 notebook
 
 >[!important]
-> Due to the enormous size of the tuned LLM, it is not possible to store the model on GitHub repository. To access the model, please go to HuggingFace website.
+> Due to the size of the tuned LLM (1.33Gb), it is not possible to store the model on GitHub repository. The model is stored on HuggingFace repository. 
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact us here:
